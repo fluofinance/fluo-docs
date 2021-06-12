@@ -1,0 +1,14 @@
+- [Introduction](/)
+- [Core Principles](principles)
+- [Tokenomics](tokenomics)
+- [Staking](staking)
+- [Smart contract](contract)
+- **Socials**
+- [Twitter](https://twitter.com/FluoFinance)
+- [Medium](https://medium.com/@fluofinance)
+- [Github](https://github.com/fluofinance)
+- [telegram](https://t.me/fluo_finance)
+- [BSC-scan](https://bscscan.com/address/0xEDb07aa3AF78C6D3F5565dB3365018CC2519946a)
+- **Links**
+- [🏠 Homepage](https://fluo.finance)
+- [💰 Fluo Wallet](https://fluo.finance/wallet)
